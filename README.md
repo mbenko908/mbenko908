@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mbenko908 and I am a PHD student of solar physics. I studied the physics at the UPJS in Kosice and Now, I am continue at the university in Bratislava (UNIBA). 
+- 👋 Hi, I’m @mbenko908 and I am interesting in solar physics at Astronomical institute (AISAS) in Tatranska Lomnica/Stara Lesna. 
 - 👀 I’m interested in solar physics, the inversion techniques of Stokes profiles in photosphere (SIR code) and also chromosphere (HAZEL).
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning opencv, pattern recognition
+- 💞️ I’m looking to collaborate on scientific article
 - 📫 How to reach me ...
 
 <!---
